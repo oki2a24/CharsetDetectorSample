@@ -1,0 +1,2 @@
+# CharsetDetectorSample
+文字コードを自動的に判別してファイルを読み込むサンプルです。
